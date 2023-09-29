@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100">
+  <!-- J -->
+  <text x="20" y="60" font-family="Arial" font-size="40" fill="blue">J</text>
+  <!-- A -->
+  <text x="60" y="60" font-family="Arial" font-size="40" fill="green">A</text>
+  <!-- Y -->
+  <text x="100" y="60" font-family="Arial" font-size="40" fill="red">Y</text>
+  <!-- A -->
+  <text x="140" y="60" font-family="Arial" font-size="40" fill="purple">A</text>
+  <!-- Space -->
+  <text x="180" y="60" font-family="Arial" font-size="40" fill="black"> </text>
+  <!-- N -->
+  <text x="200" y="60" font-family="Arial" font-size="40" fill="orange">N</text>
+  <!-- A -->
+  <text x="240" y="60" font-family="Arial" font-size="40" fill="green">A</text>
+  <!-- V -->
+  <text x="280" y="60" font-family="Arial" font-size="40" fill="blue">V</text>
+  <!-- E -->
+  <text x="320" y="60" font-family="Arial" font-size="40" fill="red">E</text>
+  <!-- E -->
+  <text x="360" y="60" font-family="Arial" font-size="40" fill="purple">E</text>
+  <!-- N -->
+  <text x="400" y="60" font-family="Arial" font-size="40" fill="orange">N</text>
+  <!-- Space -->
+  <text x="440" y="60" font-family="Arial" font-size="40" fill="black"> </text>
+  <!-- S -->
+  <text x="460" y="60" font-family="Arial" font-size="40" fill="green">S</text>
+  <!-- A -->
+  <text x="500" y="60" font-family="Arial" font-size="40" fill="blue">A</text>
+  <!-- I -->
+  <text x="540" y="60" font-family="Arial" font-size="40" fill="red">I</text>
+</svg>
